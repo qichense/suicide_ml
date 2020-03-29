@@ -1,1 +1,3 @@
-"# suicide_ml" 
+This repository contains python scripts for generating the results reported in "Predicting suicide attempt/death following a visit to psychiatric specialty care by applying machine learning to the Swedish national registry data"
+
+In accordance with the Swedish Public Access to Information and Secrecy Act, the Swedish national register data contains sensitive personal information and thus cannot be made publicly available. Data used in the current study can be requested by contacting the Swedish National Board of Health and Welfare (registerservice@socialstyrelsen.se) and Statistics Sweden (Mikrodata.individ@scb.se).
